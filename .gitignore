@@ -12,3 +12,5 @@ htmlcov
 
 # pycharm 
 .idea
+
+\.vs/
